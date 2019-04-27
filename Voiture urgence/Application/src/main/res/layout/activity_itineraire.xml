@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ItineraireActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textIntro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:text="@string/veuillez_choisir_votre_itin_raire"
+            android:fontFamily="cursive"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:typeface="serif"
+            android:textSize="30dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textDepart"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/depart"
+            android:fontFamily="cursive"
+            android:textAlignment="center"
+            android:typeface="serif"
+            android:textSize="30dp" />
+
+        <Spinner
+            android:id="@+id/SP_Depart"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:inputType="text|textPersonName"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:fontFamily="cursive"
+            android:entries="@array/DestinationDepart"
+            android:prompt="@string/depart"
+            android:typeface="serif"
+            android:spinnerMode="dialog"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textArrivee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/arrivee_text"
+            android:fontFamily="cursive"
+            android:textAlignment="center"
+            android:typeface="serif"
+            android:textSize="30dp" />
+
+        <Spinner
+            android:id="@+id/SP_Arrivee"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:inputType="text|textPersonName"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:entries="@array/DestinationArrivee"
+            android:prompt="@string/arrivee_text"
+            android:fontFamily="cursive"
+            android:typeface="serif"
+            android:spinnerMode="dialog"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textCalculItineraire"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/parcours"
+            android:fontFamily="cursive"
+            android:textAlignment="center"
+            android:typeface="serif"
+            android:textSize="30dp" />
+
+        <Spinner
+            android:id="@+id/SP_Itineraire"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:inputType="text|textPersonName"
+            android:textAlignment="center"
+            android:prompt="@string/parcours"
+            android:textSize="30dp"
+            android:fontFamily="cursive"
+            android:entries="@array/Parcours"
+            android:typeface="serif" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnValidate"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/Bvalider"
+            android:drawableLeft="@android:drawable/ic_input_add"
+            android:fontFamily="cursive"
+            android:background="@color/cardview_dark_background"
+            android:textColor="@android:color/background_light"
+            android:textSize="30dp"
+            style="@android:style/Widget.ActionButton.CloseMode"
+            android:onClick="validate"/>
+
+        <Button
+            android:id="@+id/btnAnnuler"
+            android:layout_margin="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableLeft="@android:drawable/ic_delete"
+            android:fontFamily="cursive"
+            android:background="@color/cardview_dark_background"
+            android:textColor="@android:color/background_light"
+            android:textSize="30dp"
+            style="@android:style/Widget.ActionButton.CloseMode"
+            android:text="@string/Bannuler"
+            android:onClick="annuler"/>
+    </LinearLayout>
+
+</LinearLayout>

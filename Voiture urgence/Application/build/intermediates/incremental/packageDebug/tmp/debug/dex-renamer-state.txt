@@ -1,0 +1,4 @@
+#Fri Jan 18 11:17:17 CET 2019
+base.0=D\:\\IG2A\\PEPS\\POC\\Notice_Me_POC\\Voiture urgence\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

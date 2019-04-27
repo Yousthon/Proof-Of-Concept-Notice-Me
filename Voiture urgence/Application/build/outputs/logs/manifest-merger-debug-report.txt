@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a81aec70e403c111f90a9d736d44de1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\b2c6301628238ce58233f3e16489bb83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\5741045a5b0979b3b0bee45873f5dc6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0c4780ef4646f39f1812140b72a1885b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cb1da63a4ac75d641f809b811a93aea7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8dd81defa7aa1e91111ee7ae29b6032e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f7ce3531302f3d1dbc4296969f21f9d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3cc06c1331e9f9ad8229dbffc5b03fce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\fed3d96102e980c463e359f108dea385\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ed2058dc5b76f6707d97f0f7bc79388e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\3dfbffd2322487829e628015c82bc9f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\be808524ea5c4c1d5d6dae95089c38b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a9fb93d9aa47ff9cdffd05f9018a4a74\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:3:5-48
+	android:versionName
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:8:22-65
+application
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:10:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cb1da63a4ac75d641f809b811a93aea7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cb1da63a4ac75d641f809b811a93aea7\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.android.bluetoothchat.ItineraireActivity
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:15:9-65
+	android:name
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:15:19-53
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:18:13-63
+	android:name
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:25:9-29:64
+	android:label
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:28:13-50
+	android:configChanges
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:27:13-63
+	android:theme
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml:26:13-47
+uses-sdk
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a81aec70e403c111f90a9d736d44de1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\a81aec70e403c111f90a9d736d44de1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\b2c6301628238ce58233f3e16489bb83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\gridlayout-v7-27.0.2.aar\b2c6301628238ce58233f3e16489bb83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\5741045a5b0979b3b0bee45873f5dc6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\5741045a5b0979b3b0bee45873f5dc6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0c4780ef4646f39f1812140b72a1885b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\0c4780ef4646f39f1812140b72a1885b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cb1da63a4ac75d641f809b811a93aea7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\cb1da63a4ac75d641f809b811a93aea7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8dd81defa7aa1e91111ee7ae29b6032e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\8dd81defa7aa1e91111ee7ae29b6032e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f7ce3531302f3d1dbc4296969f21f9d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\f7ce3531302f3d1dbc4296969f21f9d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3cc06c1331e9f9ad8229dbffc5b03fce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3cc06c1331e9f9ad8229dbffc5b03fce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\fed3d96102e980c463e359f108dea385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\fed3d96102e980c463e359f108dea385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ed2058dc5b76f6707d97f0f7bc79388e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ed2058dc5b76f6707d97f0f7bc79388e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\3dfbffd2322487829e628015c82bc9f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\3dfbffd2322487829e628015c82bc9f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\be808524ea5c4c1d5d6dae95089c38b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\be808524ea5c4c1d5d6dae95089c38b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a9fb93d9aa47ff9cdffd05f9018a4a74\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\a9fb93d9aa47ff9cdffd05f9018a4a74\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+		ADDED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\IG2A\PEPS\POC\Notice_Me_POC\Voiture urgence\Application\src\main\AndroidManifest.xml

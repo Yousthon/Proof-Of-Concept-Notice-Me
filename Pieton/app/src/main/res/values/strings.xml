@@ -1,0 +1,42 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">TP5_Maps</string>
+    <string name="title_activity_my_maps"> Notice Me - Piéton </string>
+    <string name="titre_marker">Titre Marker</string>
+    <string name="coordonnees">Ma Position courante</string>
+    <string name="marker_informations">Infos Markers</string>
+    <string name="map_mode_hybride">Mode Hybride</string>
+    <string name="map_mode_satellite">Mode Satellite</string>
+    <string name="map_mode_normal">Mode Normal</string>
+    <string name="reset_map">reinitialiser</string>
+    <string name="Photo"> Photo Marker</string>
+    <string name="add_marker">Ajout de Marker</string>
+    <string name="prendre_photo">Prendre photo</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="valider">Enregistrer</string>
+    <string name="Text_Toast">Au moins un élément requis : le nom ou la photo du marker</string>
+    <string name="Marker_nom_parDefaut">New Marker (Default Name)</string>
+
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Welcome</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="position_courante_user_2">Position courante user 2</string>
+
+</resources>
